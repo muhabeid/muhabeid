@@ -7,6 +7,9 @@ I am an aspiring Software Engineering student with a background in Mechanical En
 
 You can reach me via twitter handle [@muhabeid](https://twitter.com/muhabeid) or slack channel @muhabeid or email [@muhabeid@gmail.com](mailto:muhabeid@gmail.com)📫 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?muhabeid=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
