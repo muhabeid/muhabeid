@@ -21,7 +21,7 @@ You can reach me via:
 
 
 ### Wakatime Week Stats
-[![muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
+[![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
