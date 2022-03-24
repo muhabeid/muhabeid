@@ -18,10 +18,10 @@ You can reach me via:
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Github Stats Card
-
+[![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
 
 ### Wakatime Week Stats
-[![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
 
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
