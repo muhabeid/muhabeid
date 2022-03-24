@@ -18,7 +18,10 @@ You can reach me via:
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Github Stats Card
-[![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid&count_private=true&show_icons=true)](https://github.com/muhabeid/github-readme-stats)
+[![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid&count_private=true&show_icons=true&theme=vue)](https://github.com/muhabeid/github-readme-stats)
+
+### Top Language Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
 
 ### Wakatime Week Stats
 [![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
