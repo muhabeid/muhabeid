@@ -21,7 +21,7 @@ You can reach me via:
 [![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid&count_private=true&show_icons=true&theme=vue)](https://github.com/muhabeid/github-readme-stats)
 
 ### Top Language Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid&layout=compact)](https://github.com/muhabeid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
 
 ### Wakatime Week Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
