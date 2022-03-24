@@ -15,7 +15,7 @@ You can reach me via:
 [![GitHub Muhabeid](https://img.shields.io/github/followers/muhabeid?label=follow&style=social)](https://github.com/muhabeid)
 
 ### Github Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/muhabeid/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Github Stats Card
 [![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid&count_private=true&show_icons=true&theme=dark)](https://github.com/muhabeid/github-readme-stats)
