@@ -26,7 +26,7 @@ You can reach me via:
 </a>
 
 ### Wakatime Week Stats
-<a href="https://github.com/muhabeid/github-readme-stats">
+<a href="https://wakatime.com/dashboard">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)"/>
 </a>
 <!---
