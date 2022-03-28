@@ -17,11 +17,12 @@ You can reach me via:
 ### Github Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true)](https://github.com/muhabeid/github-profile-trophy)
 
-### Github Stats Card
-[![Muhabeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhabeid&count_private=true&show_icons=true&theme=dark)](https://github.com/muhabeid/github-readme-stats)
-
-### Top Language Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid&layout=compact)](https://github.com/muhabeid/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid&langs_count=8&theme=jolly&layout=compact" />
+</a>
 
 ### Wakatime Week Stats
 [![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
