@@ -9,6 +9,8 @@ I am an aspiring Software Engineering :man_technologist: student with a backgrou
 You can reach me via: 
   - Twitter handle [@muhabeid](https://twitter.com/muhabeid)  
   - Email [@muhabeid@gmail.com](mailto:muhabeid@gmail.com)
+Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issues)
+
 
 [![Twitter: Muhabeid](https://img.shields.io/twitter/follow/muhabeid?style=social)](https://twitter.com/muhabeid)
 [![Linkedin: Muhabeid](https://img.shields.io/badge/-muhabeid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhabeid/)](https://www.linkedin.com/in/muhabeid/)
