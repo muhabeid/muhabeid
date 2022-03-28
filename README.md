@@ -33,6 +33,15 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 
   - Time Coding :hourglass_flowing_sand:
 
+#### Top Repositories
+<a href="https://github.com/muhabeid/coding-interview-university">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=coding-interview-university&theme=buefy" />
+</a>
+<a href="https://github.com/muhabeid/100-days-of-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=100-days-of-code&theme=buefy" />
+</a>
+
+
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
