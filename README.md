@@ -16,7 +16,7 @@ You can reach me via:
 
 <h3 align="center">GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&theme=onedark&column=9&margin-w=15&no-frame=true)](https://github.com/muhabeid/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&title=Stars,Followers&theme=onedark&column=9&margin-w=15&no-frame=true)](https://github.com/muhabeid/github-profile-trophy)
 
 <h3 align="center">GitHub Stats</h3>
 
