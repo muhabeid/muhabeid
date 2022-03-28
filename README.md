@@ -15,7 +15,7 @@ You can reach me via:
 [![GitHub Muhabeid](https://img.shields.io/github/followers/muhabeid?label=follow&style=social)](https://github.com/muhabeid)
 
 ### Github Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true)](https://github.com/muhabeid/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true&align=center)](https://github.com/muhabeid/github-profile-trophy)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,7 +26,7 @@ You can reach me via:
 </a>
 
 ### Wakatime Week Stats
-<a href="https://wakatime.com/dashboard">
+<a href="https://github.com/muhabeid/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)"/>
 </a>
 <!---
