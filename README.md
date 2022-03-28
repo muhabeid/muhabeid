@@ -22,8 +22,15 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&theme=onedark&margin-w=15&no-bg=trueno-frame=true)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Muhabeid Stats :bar_chart:
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" /> 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" /> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" /> 
+<a href="https://github.com/muhabeid/github-readme-stats">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" />
+</a>
+<a href="https://github.com/muhabeid/github-readme-stats">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" /> 
+</a>
+<a href="https://github.com/muhabeid/github-readme-stats">
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" /> 
+</a>
 
  
 #### Top Repositories
