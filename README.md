@@ -31,6 +31,9 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 <a href="https://github.com/muhabeid/github-readme-stats">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" /> 
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid">
+</a>
 
  
 #### Top Repositories
