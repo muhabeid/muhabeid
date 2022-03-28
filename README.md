@@ -19,14 +19,14 @@ You can reach me via:
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&theme=onedark&margin-w=15&no-bg=trueno-frame=true)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Muhabeid Stats
-## Top Languages
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" />
+  - Top Languages
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" />
 
-## Stats
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" />
+  - Stats
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" />
 
-## Streaks
-<img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" />
+  - Streaks
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" />
 
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
