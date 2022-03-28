@@ -18,8 +18,10 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 [![GitHub Muhabeid](https://img.shields.io/github/followers/muhabeid?label=follow&style=social)](https://github.com/muhabeid)
 
 ### Muhabeid Trophies :trophy:
+<a href="https://github.com/muhabeid/github-profile-trophy">
+  <img height="150px" src="https://github-profile-trophy.vercel.app/?username=muhabeid&theme=onedark&margin-w=15&no-bg=trueno-frame=true"/>
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&theme=onedark&margin-w=15&no-bg=trueno-frame=true)](https://github.com/muhabeid/github-profile-trophy)
 
 ### Muhabeid Stats :bar_chart:
 <a href="https://github.com/muhabeid/github-readme-stats">
