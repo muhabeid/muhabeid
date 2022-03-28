@@ -14,21 +14,16 @@ You can reach me via:
 [![Linkedin: Muhabeid](https://img.shields.io/badge/-muhabeid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhabeid/)](https://www.linkedin.com/in/muhabeid/)
 [![GitHub Muhabeid](https://img.shields.io/github/followers/muhabeid?label=follow&style=social)](https://github.com/muhabeid)
 
-### Github Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true&align=center)](https://github.com/muhabeid/github-profile-trophy)
+<h3 align="center">GitHub Trophies</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhabeidk&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/muhabeid/github-profile-trophy)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&theme=jolly&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid&langs_count=8&theme=jolly&layout=compact" />
-</a>
+<h3 align="center">GitHub Stats</h3>
 
-### Wakatime Week Stats
-<a href="https://github.com/muhabeid/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)"/>
-</a>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" /></p>
+
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
