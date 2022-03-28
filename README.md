@@ -33,7 +33,7 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 </a> | <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232&custom_title=Muhabeid's Time">
 </a> |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 
  
 #### Top Repositories
