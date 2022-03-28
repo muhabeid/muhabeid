@@ -17,18 +17,18 @@ You can reach me via:
 ### Github Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhabeid&margin-w=15&margin-h=15&no-bg=true)](https://github.com/muhabeid/github-profile-trophy)
 
-### Muhabeid's Readme Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&theme=jolly&layout=compact" />
 </a>
-
-<a href="https://github.com/anuraghazra/convoychat">### Muhabeid's Top Languages
+<a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhabeid&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 ### Wakatime Week Stats
-[![Muhabeid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)](https://github.com/muhabeid/github-readme-stats)
-
+<a href="https://github.com/muhabeid/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhabeid)"/>
+</a>
 <!---
 muhabeid/muhabeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
