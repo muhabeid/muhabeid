@@ -20,7 +20,9 @@ You can reach me via:
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" /><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" /></p>
+<p align="center"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhabeid&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-top-langs" /></p>
+
+<p align="center"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=muhabeid&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Muhabeid-stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhabeid&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="Muhabeid-streak-stats" /></p>
 
