@@ -12,10 +12,26 @@ You can reach me via:
 
 Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issues)
 
+<a href="https://www.twitter.com/muhabeid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/muhabeid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.github.com/muhabeid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/muhabeid?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-[![Twitter: Muhabeid](https://img.shields.io/twitter/follow/muhabeid?style=social)](https://twitter.com/muhabeid)
-[![Linkedin: Muhabeid](https://img.shields.io/badge/-muhabeid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhabeid/)](https://www.linkedin.com/in/muhabeid/)
-[![GitHub Muhabeid](https://img.shields.io/github/followers/muhabeid?label=follow&style=social)](https://github.com/muhabeid)
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/muhabeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Trophies :trophy:
 <a href="https://github.com/muhabeid/github-profile-trophy">
@@ -39,9 +55,7 @@ Or we could talk about anything [here](https://github.com/muhabeid/muhabeid/issu
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/muhabeid/coding-interview-university" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=coding-interview-university&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/muhabeid/100-days-of-code" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=100-days-of-code&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/muhabeid/50projectsin50days" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=50projectsin50days&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/muhabeid/freecodecamp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhabeid&repo=freecodecamp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!---
